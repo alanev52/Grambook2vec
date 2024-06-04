@@ -10,12 +10,12 @@ Findings of the Association for Computational Linguistics: EACL 2023. Ed. by And
 Linguistics, May 2023, pp. 2306–2316. doi: 10.18653/v1/2023.findings-eacl.174. url: https://aclanthology.org/2023.findings-eacl.174.
 
 
-DATA:
+##DATA:
 Due to the copyright reasons the original data for the research can not be published. We used a portion of restricted subset od DReaM corpus, which is a collection of books describing 484 languages from 26 different families + 6 isolates in text formate (typically OCR grammar descriptions).
 
 All methods are written in jupyter notebook and adopted for the use in Google colab.
 
-Exploring Language Descriptions through Vector Space Models
+[Exploring Language Descriptions through Vector Space Models]()
 You may use the notebook 
 - to create facets dictionaries
 - to vectorize lengthy text documents using BoW, TF-IDF, doc2vec and sentence BERT applying various segmentation strategies: truncation, sentence chunking and facets-based approach.
