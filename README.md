@@ -15,7 +15,7 @@ Due to the copyright reasons the original data for the research can not be publi
 
 All methods are written in jupyter notebook and adopted for the use in Google colab.
 
-[Exploring Language Descriptions through Vector Space Models]()
+## [Exploring Language Descriptions through Vector Space Models](https://github.com/alanev52/Grambook2vec/blob/main/Exploring_Language_Descriptions_through_Vector_Space_Models.ipynb)
 You may use the notebook 
 - to create facets dictionaries
 - to vectorize lengthy text documents using BoW, TF-IDF, doc2vec and sentence BERT applying various segmentation strategies: truncation, sentence chunking and facets-based approach.
