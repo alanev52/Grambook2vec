@@ -15,6 +15,9 @@ Due to the copyright reasons the original data for the research can not be publi
 
 All methods are written in jupyter notebook and adopted for the use in Google colab.
 
+## Embedings: 
+You can download the generated [embeddings](https://drive.google.com/drive/folders/1IEbDZdsasxrQVSoJudlpqnK0GCVR1sx2?usp=sharing) 
+
 ## [Exploring Language Descriptions through Vector Space Models](https://github.com/alanev52/Grambook2vec/blob/main/Exploring_Language_Descriptions_through_Vector_Space_Models.ipynb)
 You may use the notebook 
 - to create facets dictionaries;
